@@ -1,0 +1,2 @@
+class QuizeData < ApplicationRecord
+end
